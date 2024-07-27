@@ -9,3 +9,7 @@ func getOne() {
 func getTwo() {
 	fmt.Println("魔火二哥")
 }
+
+func getThree() {
+	fmt.Println("狗狗三哥")
+}
